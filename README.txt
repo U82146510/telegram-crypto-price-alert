@@ -11,7 +11,7 @@ A Node.js Telegram bot that monitors cryptocurrency pairs and alerts users when 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/U82146510/telegram-trade-warrning.git cd telegram-trade-warrning
+git clone https://github.com/U82146510/telegram-crypto-price-alert cd telegram-trade-warrning
 
 2. Install dependencies:
 npm install
